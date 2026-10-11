@@ -76,7 +76,7 @@ O programa também rejeita opções ou valores em formatos inválidos e impede a
 ├── README.md       # Descrição, demonstração e instruções
 ├── LICENSE         # Texto completo da licença MIT
 ├── main.c          # Código-fonte da calculadora
-└── assets/
+└── calculadora_c_readme/
     └── demo.png    # Imagem de demonstração
 ```
 
