@@ -6,7 +6,7 @@ Uma calculadora interativa de terminal desenvolvida em linguagem C. O programa p
 
 A imagem abaixo ilustra uma execução da calculadora no terminal.
 
-![Demonstração da calculadora em C](assets/demo.png)
+![Demonstração da calculadora em C](calculadora_c_readme/demo.png)
 
 ## Pré-requisitos
 
