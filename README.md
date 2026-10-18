@@ -6,7 +6,7 @@ Uma calculadora interativa de terminal desenvolvida em linguagem C. O programa p
 
 A imagem abaixo ilustra uma execução da calculadora no terminal.
 
-![Demonstração da calculadora em C](calculadora_c_readme/demo.png)
+![Demonstração da calculadora em C](assets/demo.png)
 
 ## Pré-requisitos
 
@@ -76,7 +76,7 @@ O programa também rejeita opções ou valores em formatos inválidos e impede a
 ├── README.md       # Descrição, demonstração e instruções
 ├── LICENSE         # Texto completo da licença MIT
 ├── main.c          # Código-fonte da calculadora
-└── calculadora_c_readme/
+└── assets/
     └── demo.png    # Imagem de demonstração
 ```
 
